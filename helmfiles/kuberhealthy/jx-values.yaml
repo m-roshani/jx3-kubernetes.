@@ -36,7 +36,7 @@ jxRequirements:
   - key: staging
   - key: production
   ingress:
-    domain: change.me
+    domain: myk8s.ir
     kind: ingress
     namespaceSubDomain: -kuberhealthy.
     tls:
